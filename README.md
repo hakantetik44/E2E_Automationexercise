@@ -5,7 +5,7 @@
 
 ## Description du Projet
 
-Ce projet est un framework d'automatisation de tests basé sur Selenium et Cucumber, développé pour les tests de bout en bout (E2E). Il couvre les scénarios d'inscription, de connexion et de suppression de compte sur le site web Otomasyonexercise.com.
+Ce projet est un framework d'automatisation de tests basé sur Selenium et Cucumber, développé pour les tests de bout en bout (E2E). Il couvre les scénarios d'inscription, de connexion et de suppression de compte sur le site web Automationexercise.com.
 
 ## Exigences
 
