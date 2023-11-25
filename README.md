@@ -1,7 +1,7 @@
 # 
-# # Nom du Projet
+# # E2E_Automationexercise
 
-E2E_Automationexercise
+
 
 ## Description du Projet
 
